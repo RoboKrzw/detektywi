@@ -26,21 +26,11 @@
     background: #0B1135;
 }
 
-@media only screen and (min-width: 769px) {
-
-    .fixed-header {
-        padding: 10px 0;
-        width: 20%;
-        display: block;
-        right: 0;
-    }
-}
-
 @media only screen and (max-width: 769px) {
     .main-header .header-upper {
         padding: 6px 0;
     }
-}
+} 
 
 .main-header .logo {
     position: relative;
